@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/nickjgentile/didWillBuyBootsDotCom/issues"
     },
-    "homepage": "https://github.com/nickjgentile/didWillBuyBootsDotCom#readme"
+    "homepage": "https://github.com/nickjgentile/didWillBuyBootsDotCom#readme",
+    "dependencies": {
+        "react": "^16.2.0"
+    }
 }

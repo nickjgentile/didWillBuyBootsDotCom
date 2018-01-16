@@ -19,7 +19,9 @@
     "homepage": "https://github.com/nickjgentile/didWillBuyBootsDotCom#readme",
     "dependencies": {
         "express": "^4.16.2",
+        "gulp": "^3.9.1",
         "morgan": "^1.9.0",
-        "react": "^16.2.0"
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0"
     }
 }

@@ -1,4 +1,6 @@
 import React from 'react';
+import Header from './components/Header/header.jsx';
+import Footer from './components/Footer/footer.jsx';
 
 class App extends React.Component {
     constructor(props) {
@@ -11,13 +13,15 @@ class App extends React.Component {
             propOne: null
         };
     }
-
+    
     // FUNCTIONS and VARS HERE 
 
     render() {
         return (
             <div>
-                Yo Bitch
+                <Header />
+
+                <Footer />
             </div>
         );
     }
